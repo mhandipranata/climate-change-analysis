@@ -7,4 +7,5 @@ Hence, we want to analyze the correlation between climate change and the death f
 
 1. We narrowed down our analysis to 5 top countries with highest population in the world: China, India, United States, Indonesia, and Brazil.
 2. Pull the data of average temperature from 1991 to 2016 by each countries.
-3. Pull the data of deaths from cancer from 1991 to 2016 by each countries, by cancer types. (We may want to focus on lung cancer).
+3. Pull the data of CO2 emission by each countries from 1991 to 2016. This data will show how much pollution each countries has year by year.
+4. Pull the data of deaths from cancer from 1991 to 2016 by each countries, by cancer types. (We may want to focus on lung cancer).
