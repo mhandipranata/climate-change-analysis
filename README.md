@@ -1,5 +1,7 @@
 # Climate Change and Death from Cancer Analysis
 
+by: Michelle Handipranata, Abdel Ghania and Eugene Alejo
+
 ## Summary
 Climate change is one of the top topic which people and governments all over the world has been dicussing to prevent going forward. Climate change has made the temperature in the earth becomes warmer and warmer over the years. There are many causes of climate change, but one of them is polution. Not only hurting our home planet, but also affects on our health.
 
